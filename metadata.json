@@ -1,0 +1,6 @@
+{
+  "name": "Authentication Portal",
+  "description": "An elegant, fully responsive web sign-in and sign-up flow supporting interactive OAuth authentication and a secure step-by-step password recovery flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
